@@ -9,10 +9,8 @@ I enjoy building intelligent systems, exploring data-driven solutions, and conti
 - Deep Learning
 - Data Analysis & Model Building
 
-🔧 Technologies & Tools:
-- Languages: Python, Java
-- Libraries/Frameworks: NumPy, Pandas, Scikit-learn(learning), TensorFlow(learning)
-- Tools: Google Colab, Jupyter Notebook
+🛠 Python | Java | NumPy | Pandas | Scikit-learn (learning) | TensorFlow (learning) 
+📍 Google Colab & Jupyter Notebook  
 
 📌 Currently:
 - Learning advanced AI/ML concepts
